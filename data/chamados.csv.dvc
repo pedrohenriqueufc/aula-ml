@@ -1,0 +1,6 @@
+outs:
+- md5: c54cd50d5b9e77a1b46544afda3b13b0
+  size: 327
+  isexec: true
+  hash: md5
+  path: chamados.csv

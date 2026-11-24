@@ -1,0 +1,6 @@
+outs:
+- md5: 859050722ed50484365f694d77f3c105
+  size: 118
+  isexec: true
+  hash: md5
+  path: split.csv
