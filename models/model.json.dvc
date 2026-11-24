@@ -1,0 +1,6 @@
+outs:
+- md5: ad6e87a09b2ca75b2024f9fb742e0043
+  size: 329
+  isexec: true
+  hash: md5
+  path: model.json
